@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>我的博客</title>
   
   
-  <link href="http://zxcv0221.github.io/atom.xml" rel="self"/>
+  <link href="http://dengwd33.github.io/atom.xml" rel="self"/>
   
-  <link href="http://zxcv0221.github.io/"/>
+  <link href="http://dengwd33.github.io/"/>
   <updated>2022-03-19T13:42:34.735Z</updated>
-  <id>http://zxcv0221.github.io/</id>
+  <id>http://dengwd33.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>deng</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zxcv0221.github.io/2022/03/19/hello-world/"/>
-    <id>http://zxcv0221.github.io/2022/03/19/hello-world/</id>
+    <link href="http://dengwd33.github.io/2022/03/19/hello-world/"/>
+    <id>http://dengwd33.github.io/2022/03/19/hello-world/</id>
     <published>2022-03-19T13:42:42.413Z</published>
     <updated>2022-03-19T13:42:34.735Z</updated>
     
