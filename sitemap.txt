@@ -1,2 +1,9 @@
+http://dengwd33.github.io/tags/index.html
+http://dengwd33.github.io/myself/index.html
+http://dengwd33.github.io/about/index.html
+http://dengwd33.github.io/timeline/index.html
+http://dengwd33.github.io/link/index.html
+http://dengwd33.github.io/messageboard/index.html
+http://dengwd33.github.io/categories/index.html
 http://dengwd33.github.io/2022/03/19/hello-world/
 http://dengwd33.github.io/
